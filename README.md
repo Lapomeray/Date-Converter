@@ -11,4 +11,4 @@ Uses the same functionality as createDateValue, but returns a local time string 
 ## function timeString(value)
 This function takes in a createDateValue() value, and returns a local time string
 
-Check out the live use case of these functions on [CodePen](https://codepen.io/lapomeray-the-typescripter/pen/MqEzMv) 
+Interact with these functions live on [CodePen](https://codepen.io/lapomeray-the-typescripter/pen/MqEzMv) 
